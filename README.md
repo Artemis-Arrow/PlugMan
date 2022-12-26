@@ -7,4 +7,4 @@ so far I've only written one for neovim and it only contains a handful of plugin
 feel free to add any plugins you want to the text files, and please do help me in this project (if you can), I am still relativly new to programming
 and barely have time
 if you want to donate here is my btc address, don't feel obliged to do so
-bc1qz3c5qkg0n3hsnplpgtthz80khx79gd8qla9nq4
+bc1q6zg8jgj36dl549u9mvtkxyuhuyztpgslsl0v0j
