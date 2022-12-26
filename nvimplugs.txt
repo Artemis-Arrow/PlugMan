@@ -1,0 +1,14 @@
+Plenary 'nvim-lua/plenary.nvim'
+telescope 'nvim-telescope/telescope.nvim'
+vim-markdown 'plasticboy/vim-markdown'
+autopairs 'jiangmiao/autopairs'
+airline-themes 'vim-airline/vim-airline-themes'
+nerdtree 'preservim/nerdtree'
+airline 'vim-airline/vim-airline'
+coc 'neoclide/coc.nvim'
+devicons 'ryanoasis/vim-devicons'
+tagbar 'preservim/tagbar'
+web-devicons 'nvim-tree/nvim-web-devicons'
+barbar "romgrk/barbar"
+treesitter 'nvim-treesitter/nvim-treesitter'
+
